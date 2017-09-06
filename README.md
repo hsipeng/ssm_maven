@@ -1,4 +1,6 @@
 maven ssm结构图：
+
+
 ![](https://raw.githubusercontent.com/lirawx/ssm_maven/master/src/main/resources/construct.png)
 
 从eclipse迁移过来的，手动找了pom.xml，然后在idea上重新架构，
