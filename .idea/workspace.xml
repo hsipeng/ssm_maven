@@ -691,7 +691,7 @@
       <option name="presentableId" value="Default" />
       <updated>1504677924547</updated>
       <workItem from="1504677927232" duration="2830000" />
-      <workItem from="1504683203802" duration="3097000" />
+      <workItem from="1504683203802" duration="3110000" />
     </task>
     <task id="LOCAL-00001" summary="maven ssm 框架初步整合">
       <created>1504685055087</created>
@@ -707,7 +707,14 @@
       <option name="project" value="LOCAL" />
       <updated>1504685259930</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="readme.md">
+      <created>1504686520441</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1504686520441</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -743,7 +750,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5927000" />
+    <option name="totallyTimeSpent" value="5940000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -850,7 +857,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="maven ssm 框架初步整合" />
     <MESSAGE value="sql，结构图" />
-    <option name="LAST_COMMIT_MESSAGE" value="sql，结构图" />
+    <MESSAGE value="readme.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme.md" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
